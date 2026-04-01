@@ -17,3 +17,6 @@ Dataset: 1,416 employees | Attrition rate: 16.17%
 ## Tools used
 Power BI Desktop | Power Query | DAX
 
+## Dashboard preview
+<img width="1326" height="739" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/a747d6e0-ea6b-4eca-b356-762441c15658" />
+
